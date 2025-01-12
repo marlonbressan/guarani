@@ -76,7 +76,7 @@ Lista de objetos retornados por consultas, com paginação. Exemplo abaixo retor
 ------------------------------------------------------------------------------------------------
 Observações finais
 ------------------------------------------------------------------------------------------------
-Devido ao prazo de 2 dias ficaram faltando algumas poucas coisas, porém acredito que terminaria
+Devido ao prazo de 2 dias ficaram a faltar algumas poucas coisas, porém acredito que terminaria
 em menos de um dia, pois seriam praticamente CTRL+C CTRL+V do que já foi feito.
 
 Como pode notar acima eu coloquei algumas coisas extras no projeto e implementei alguns CRUDs
